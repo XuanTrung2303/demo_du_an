@@ -14,13 +14,11 @@
 
     <div class="container">
         <div class="jumbotron">
-            <h1 class="display-4">Hello, PHP!</h1>
+            <h1 class="display-4">Hello, PHP12312!</h1>
             <a class="btn btn-primary btn-lg" href="/CRUD-SHOP/admin/index.php" role="button">Danh sách Admin</a>
         </div>
     </div>
 
-    <!-- Liên kết JS Jquery bằng CDN -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 
     <!-- Liên kết JS Popper bằng CDN -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
