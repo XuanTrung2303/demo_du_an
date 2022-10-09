@@ -14,7 +14,7 @@
 
     <div class="container">
         <div class="jumbotron">
-            <h1 class="display-4">Hello, PHP12312!</h1>
+            <h1 class="display-4">Hello, PHP12312!123131513534112312</h1>
             <a class="btn btn-primary btn-lg" href="/CRUD-SHOP/admin/index.php" role="button">Danh sách Admin</a>
         </div>
     </div>
